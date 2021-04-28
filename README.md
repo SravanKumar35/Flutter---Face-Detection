@@ -1,4 +1,4 @@
-# strip_detection
+# Face_detection
 
 A new Flutter project.
 
