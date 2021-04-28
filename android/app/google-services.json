@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691783110714",
+    "project_id": "strip-detection",
+    "storage_bucket": "strip-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691783110714:android:4a31053da9c637b6b46503",
+        "android_client_info": {
+          "package_name": "com.example.strip_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691783110714-ausfgnhjghvr67kmvrhn0nre0j26fu88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.strip_detection",
+            "certificate_hash": "e443edd37853131d70abad1c53103c3b83494ac8"
+          }
+        },
+        {
+          "client_id": "691783110714-k097u2anc2hbis5dhhrjdt2ifliukvkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG_sSODP0Z1SuSGQynlumvjk5D8l4F4II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691783110714-k097u2anc2hbis5dhhrjdt2ifliukvkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
